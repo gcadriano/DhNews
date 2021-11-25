@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
     font-family: 'Rajdhani', sans-serif;
     margin: 0 auto;
     max-width: 800px;
@@ -29,38 +28,6 @@ main {
 div.container {
     width: fit-content;
     padding-top: 10px;
+    padding-bottom: 10px;
     margin:0 auto;
 }
-=======
-  font-family: 'Rajdhani', sans-serif;
-  margin: 0 auto;
-  max-width: 800px;
-  width: 100%;
-}
-
-#titulo {
-  margin-bottom: 0;
-  color: #EC183F;
-  font-size: 40px;
-}
-
-header p {
-  margin-top: 10px;
-  font-weight: bold;
-}
-
-section img {
-  width: 100%;
-}
-
-main {
-  border-bottom: solid 1px #CCC;
-  padding-bottom: 40px;
-}
-
-div.container {
-  width: fit-content;
-  margin: 0 auto;
-}
-
->>>>>>> fda0b33122001e432f4a7ecd0ccceb5285fa3abd
